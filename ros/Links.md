@@ -8,4 +8,12 @@ This link already contains some basic resources collated at Ivlabs,VNIT,Nagpur, 
 
 # ROS2 references:
 
-I need time to add them here
+1. https://medium.com/@nullbyte.in/ros2-from-the-ground-up-part-1-an-introduction-to-the-robot-operating-system-4c2065c5e032
+2. https://fkromer.github.io/awesome-ros2/
+
+# Gazebo references
+1. https://github.com/fkromer/awesome-gazebo
+
+# Geneal References 
+
+1. Reddit :  https://www.reddit.com/r/ROS/
