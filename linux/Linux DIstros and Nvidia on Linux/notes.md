@@ -33,3 +33,4 @@ https://docs.nvidia.com/datacenter/tesla/tesla-installation-notes/index.html
 
 ## Note
 AMD GPUs are better supported on linux. 
+If stuff is working fine , don't mess with it. There is a higher chance of breaking stuff. 
