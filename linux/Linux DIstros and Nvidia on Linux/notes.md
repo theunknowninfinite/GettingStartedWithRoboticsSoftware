@@ -6,7 +6,7 @@ Nvidia GPUs on linux have generally been a issue. Issues include driver kernel m
 4. Fedora(https://getfedora.org/).One of the best distros but is rough for a beginner to learn to set it up. Nobara,based off fedora. this is recommended if going this route. 
 
 # Cons of Nvidia on Linux 
-1. No full wattage support . Some laptops have GPUS that can use upto 100+W.As of Jan 2023, they are limited to 80W.
+1. No full wattage support . Some laptops have GPUS that can use upto 100+W.As of Jan 2023, they are limited to 80W.As of August 2023, Nvidia Driver Version 525+ you can set power limit to max of hardware support on laptops. (Needs to be set by user)
 2. Lower features as compared to windows 
 3. Poor graphics switching between iGPU and dGPU.
 * The following may or may not happen to everyone 
